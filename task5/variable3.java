@@ -1,4 +1,4 @@
-class task5{
+class variable3{
 	public static void main(String []args){
 		String fname,lname;
 		

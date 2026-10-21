@@ -1,4 +1,4 @@
-class Task6{
+class primitivedatatype{
 	public static void main(String [] args){
 	Byte b1;
 	b1=12;
