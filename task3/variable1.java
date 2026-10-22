@@ -1,4 +1,4 @@
-class variable3{
+class variable1{
 	public static void main(String [] args){
 		int x;
 		x=10;
